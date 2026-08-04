@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
