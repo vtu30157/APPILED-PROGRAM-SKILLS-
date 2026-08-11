@@ -30,6 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
