@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0023-merge-k-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -47,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
