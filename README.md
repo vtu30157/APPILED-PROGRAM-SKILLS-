@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vtu30157/APPILED-PROGRAM-SKILLS-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
